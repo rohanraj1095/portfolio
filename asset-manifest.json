@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.840f7cc6.css",
+    "main.js": "/portfolio/static/js/main.c625ac41.js",
+    "static/media/faceRecognition1.jpg": "/portfolio/static/media/faceRecognition1.85ce59be976fdcd6d94d.jpg",
+    "static/media/randomJoke1.jpg": "/portfolio/static/media/randomJoke1.2d5912abc223afef76c6.jpg",
+    "static/media/weather1.jpg": "/portfolio/static/media/weather1.9be3c9c18d672da8fe2a.jpg",
+    "static/media/game.png": "/portfolio/static/media/game.43a02f3adf2c36523f27.png",
+    "static/media/heroImage1.png": "/portfolio/static/media/heroImage1.7694442b031bd138fc99.png",
+    "static/media/portfolio1.png": "/portfolio/static/media/portfolio1.bac538e93e63348b56b4.png",
+    "static/media/react.png": "/portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/contact.png": "/portfolio/static/media/contact.7f53e3aea2f8155638c0.png",
+    "static/media/github.png": "/portfolio/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/sql.png": "/portfolio/static/media/sql.1c057e5d49b75a46495e.png",
+    "static/media/c.png": "/portfolio/static/media/c.29c21ebf4661cfe6d12e.png",
+    "static/media/html.png": "/portfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/portfolio/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/linux.png": "/portfolio/static/media/linux.aa52a45cef7e66ea56fa.png",
+    "static/media/c++.png": "/portfolio/static/media/c++.9de9df950e692f5576c1.png",
+    "static/media/javascript.png": "/portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/portfolio/index.html",
+    "main.840f7cc6.css.map": "/portfolio/static/css/main.840f7cc6.css.map",
+    "main.c625ac41.js.map": "/portfolio/static/js/main.c625ac41.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.840f7cc6.css",
+    "static/js/main.c625ac41.js"
+  ]
+}
