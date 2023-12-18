@@ -56,7 +56,7 @@ const NavBar = () => {
     {
       id: 3,
       SocialIcon: <HiOutlineMail />,
-      href: "@",
+      href: "mailto:rohanraj12149@gmail.com",
     },
     {
       id: 4,

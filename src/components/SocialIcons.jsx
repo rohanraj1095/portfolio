@@ -35,7 +35,7 @@ const SocialIcons = () => {
                 <HiOutlineMail size={30}/>
                 </>
             ),
-            href: '#',
+            href: 'mailto:rohanraj12149@gmail.com',
             
         },
         {
